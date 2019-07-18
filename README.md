@@ -3,3 +3,5 @@ I am currenly pursuing master dergee in Data analytics at Singapore Management U
 
 I graduated from Nayang technology University with a bachelor degree in Electrical and Electronic Engineering in 2016. After graduation, I worked as a business analyst in banking and IT inductry for 2 and half years. I have strong capability on effective communicating with clients or inernal users, translate prolem and soltion between technical and non-technical, and designing dashborad to stakeholders.
 
+# Analytics Projects 
+
